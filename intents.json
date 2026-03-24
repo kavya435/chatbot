@@ -1,0 +1,17 @@
+{
+  "greeting": {
+    "keywords": ["hi", "hello"]
+  },
+  "track": {
+    "keywords": ["track", "track order"]
+  },
+  "cancel": {
+    "keywords": ["cancel"]
+  },
+  "refund": {
+    "keywords": ["refund"]
+  },
+  "goodbye": {
+    "keywords": ["bye"]
+  }
+}
